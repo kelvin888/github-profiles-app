@@ -1,0 +1,12 @@
+.profile{
+    height: 245px
+}
+
+.profile:hover .profile-details{
+    display: block;
+    text-align: center;
+}
+
+.profile-details{
+    display:none;
+}
